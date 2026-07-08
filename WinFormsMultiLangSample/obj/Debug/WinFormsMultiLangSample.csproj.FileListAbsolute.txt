@@ -1,0 +1,10 @@
+C:\Users\Owner\Desktop\practice\WinFormsMultiLangSample\WinFormsMultiLangSample\bin\Debug\WinFormsMultiLangSample.exe.config
+C:\Users\Owner\Desktop\practice\WinFormsMultiLangSample\WinFormsMultiLangSample\bin\Debug\WinFormsMultiLangSample.exe
+C:\Users\Owner\Desktop\practice\WinFormsMultiLangSample\WinFormsMultiLangSample\bin\Debug\WinFormsMultiLangSample.pdb
+C:\Users\Owner\Desktop\practice\WinFormsMultiLangSample\WinFormsMultiLangSample\obj\Debug\WinFormsMultiLangSample.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\practice\WinFormsMultiLangSample\WinFormsMultiLangSample\obj\Debug\WinFormsMultiLangSample.Form1.resources
+C:\Users\Owner\Desktop\practice\WinFormsMultiLangSample\WinFormsMultiLangSample\obj\Debug\WinFormsMultiLangSample.Properties.Resources.resources
+C:\Users\Owner\Desktop\practice\WinFormsMultiLangSample\WinFormsMultiLangSample\obj\Debug\WinFormsMultiLangSample.csproj.GenerateResource.cache
+C:\Users\Owner\Desktop\practice\WinFormsMultiLangSample\WinFormsMultiLangSample\obj\Debug\WinFormsMultiLangSample.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\practice\WinFormsMultiLangSample\WinFormsMultiLangSample\obj\Debug\WinFormsMultiLangSample.exe
+C:\Users\Owner\Desktop\practice\WinFormsMultiLangSample\WinFormsMultiLangSample\obj\Debug\WinFormsMultiLangSample.pdb

@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\Owner\\Desktop\\practice\\WinFormsMultiLangSample\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{624A84EF-4784-4B05-AAF9-5BFB88E35292}|WinFormsMultiLangSample\\WinFormsMultiLangSample.csproj|C:\\Users\\Owner\\Desktop\\practice\\WinFormsMultiLangSample\\winformsmultilangsample\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{624A84EF-4784-4B05-AAF9-5BFB88E35292}|WinFormsMultiLangSample\\WinFormsMultiLangSample.csproj|c:\\users\\owner\\desktop\\practice\\winformsmultilangsample\\winformsmultilangsample\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{624A84EF-4784-4B05-AAF9-5BFB88E35292}|WinFormsMultiLangSample\\WinFormsMultiLangSample.csproj|solutionrelative:winformsmultilangsample\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -11,7 +11,7 @@
       "RelativeMoniker": "D:0:0:{624A84EF-4784-4B05-AAF9-5BFB88E35292}|WinFormsMultiLangSample\\WinFormsMultiLangSample.csproj|solutionrelative:winformsmultilangsample\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{624A84EF-4784-4B05-AAF9-5BFB88E35292}|WinFormsMultiLangSample\\WinFormsMultiLangSample.csproj|c:\\users\\owner\\desktop\\practice\\winformsmultilangsample\\winformsmultilangsample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{624A84EF-4784-4B05-AAF9-5BFB88E35292}|WinFormsMultiLangSample\\WinFormsMultiLangSample.csproj|C:\\Users\\Owner\\Desktop\\practice\\WinFormsMultiLangSample\\winformsmultilangsample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{624A84EF-4784-4B05-AAF9-5BFB88E35292}|WinFormsMultiLangSample\\WinFormsMultiLangSample.csproj|solutionrelative:winformsmultilangsample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -22,7 +22,7 @@
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
-      "VerticalTabListWidth": 127,
+      "VerticalTabListWidth": 100,
       "DocumentGroups": [
         {
           "DockedWidth": 200,
@@ -45,7 +45,7 @@
               "ToolTip": "C:\\Users\\Owner\\Desktop\\practice\\WinFormsMultiLangSample\\WinFormsMultiLangSample\\Resources\\Strings.resx",
               "RelativeToolTip": "WinFormsMultiLangSample\\Resources\\Strings.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2026-07-11T01:17:46.29Z",
+              "WhenOpened": "2026-07-11T01:56:07.523Z",
               "EditorCaption": ""
             },
             {
@@ -56,7 +56,7 @@
               "RelativeDocumentMoniker": "WinFormsMultiLangSample\\Form1.cs",
               "ToolTip": "C:\\Users\\Owner\\Desktop\\practice\\WinFormsMultiLangSample\\WinFormsMultiLangSample\\Form1.cs",
               "RelativeToolTip": "WinFormsMultiLangSample\\Form1.cs",
-              "ViewState": "AgIAAA4AAADgzMzMzMwlwBoAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAADgmZmZmRktwCcAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-08T13:14:53.006Z",
               "EditorCaption": ""

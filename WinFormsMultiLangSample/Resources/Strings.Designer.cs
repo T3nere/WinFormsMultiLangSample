@@ -61,6 +61,15 @@ namespace WinFormsMultiLangSample.Resources {
         }
         
         /// <summary>
+        ///   Switch to Chinese に類似しているローカライズされた文字列を検索します。
+        /// </summary>
+        internal static string BtnChinese {
+            get {
+                return ResourceManager.GetString("BtnChinese", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Switch to English に類似しているローカライズされた文字列を検索します。
         /// </summary>
         internal static string BtnEnglish {

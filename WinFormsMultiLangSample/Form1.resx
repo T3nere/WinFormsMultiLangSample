@@ -144,7 +144,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;label1.ZOrder" xml:space="preserve">
-    <value>3</value>
+    <value>4</value>
   </data>
   <data name="label2.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -171,13 +171,13 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;label2.ZOrder" xml:space="preserve">
-    <value>2</value>
+    <value>3</value>
   </data>
   <data name="BtnEnglish.Location" type="System.Drawing.Point, System.Drawing">
-    <value>166, 262</value>
+    <value>45, 260</value>
   </data>
   <data name="BtnEnglish.Size" type="System.Drawing.Size, System.Drawing">
-    <value>225, 106</value>
+    <value>229, 108</value>
   </data>
   <data name="BtnEnglish.TabIndex" type="System.Int32, mscorlib">
     <value>2</value>
@@ -195,13 +195,13 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;BtnEnglish.ZOrder" xml:space="preserve">
-    <value>1</value>
+    <value>2</value>
   </data>
   <data name="BtnJapanese.Location" type="System.Drawing.Point, System.Drawing">
-    <value>433, 262</value>
+    <value>299, 260</value>
   </data>
   <data name="BtnJapanese.Size" type="System.Drawing.Size, System.Drawing">
-    <value>214, 106</value>
+    <value>218, 108</value>
   </data>
   <data name="BtnJapanese.TabIndex" type="System.Int32, mscorlib">
     <value>3</value>
@@ -219,6 +219,30 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;BtnJapanese.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="BtnChinese.Location" type="System.Drawing.Point, System.Drawing">
+    <value>543, 260</value>
+  </data>
+  <data name="BtnChinese.Size" type="System.Drawing.Size, System.Drawing">
+    <value>226, 108</value>
+  </data>
+  <data name="BtnChinese.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="BtnChinese.Text" xml:space="preserve">
+    <value>button3</value>
+  </data>
+  <data name="&gt;&gt;BtnChinese.Name" xml:space="preserve">
+    <value>BtnChinese</value>
+  </data>
+  <data name="&gt;&gt;BtnChinese.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;BtnChinese.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;BtnChinese.ZOrder" xml:space="preserve">
     <value>0</value>
   </data>
   <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">

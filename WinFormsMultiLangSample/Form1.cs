@@ -23,6 +23,8 @@ namespace WinFormsMultiLangSample
             // CurrentUICultureに応じて自動的にen/jaが切り替わる
             BtnJapanese.Text = Strings.BtnJapanese;
             BtnEnglish.Text = Strings.BtnEnglish;
+            BtnChinese.Text = Strings.BtnChinese;
+
             label1.Text = Strings.label1_text;
             label2.Text = Strings.label2_text;
         }
@@ -38,6 +40,14 @@ namespace WinFormsMultiLangSample
         private void BtnJapanese_Click(object sender, EventArgs e)
         {
             Properties.Settings.Default.Language = "ja";
+            Properties.Settings.Default.Save();
+
+            MessageBox.Show(Strings.MsgRestartRequired);
+        }
+
+        private void BtnChinese_Click(object sender, EventArgs e)
+        {
+            Properties.Settings.Default.Language = "zh-CN";
             Properties.Settings.Default.Save();
 
             MessageBox.Show(Strings.MsgRestartRequired);

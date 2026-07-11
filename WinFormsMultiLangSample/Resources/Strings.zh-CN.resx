@@ -118,21 +118,21 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="BtnChinese" xml:space="preserve">
-    <value>Switch to Chinese</value>
+    <value>切换为中文</value>
   </data>
   <data name="BtnEnglish" xml:space="preserve">
-    <value>Switch to English</value>
+    <value>切换为英语</value>
   </data>
   <data name="BtnJapanese" xml:space="preserve">
-    <value>Switch to Japanese</value>
+    <value>切换为日语</value>
   </data>
   <data name="label1_text" xml:space="preserve">
-    <value>Change "Localizable" properties "True"</value>
+    <value>将窗体的“Localizable”属性设置为“True”</value>
   </data>
   <data name="label2_text" xml:space="preserve">
-    <value>Change "Langage" property "日本語" temporary</value>
+    <value>暂时将“Language”属性设置为“日本語”</value>
   </data>
   <data name="MsgRestartRequired" xml:space="preserve">
-    <value>Language changes will take effect after restarting the application.</value>
+    <value>语言设置将在重新启动应用程序后生效。</value>
   </data>
 </root>

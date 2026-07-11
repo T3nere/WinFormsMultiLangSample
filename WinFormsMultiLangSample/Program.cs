@@ -20,12 +20,12 @@ namespace WinFormsMultiLangSample
             string lang = Properties.Settings.Default.Language;
             if (string.IsNullOrEmpty(lang))
             {
-                lang = "en"; // 初回起動時の既定値
+                lang = "ja"; // 初回起動時の既定値
             }
 
             var culture = new CultureInfo(lang);
             Thread.CurrentThread.CurrentUICulture = culture;
-            Thread.CurrentThread.CurrentCulture = culture; // 日付や数値の書式も合わせる場合
+            Thread.CurrentThread.CurrentCulture = culture;
 
             Application.Run(new Form1());
         }

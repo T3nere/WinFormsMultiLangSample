@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using WinFormsMultiLangSample.Resources;
 
 namespace WinFormsMultiLangSample
 {
@@ -17,16 +18,29 @@ namespace WinFormsMultiLangSample
             InitializeComponent();
         }
 
-        private void LanguageButton_Click(object sender, EventArgs e)
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            // CurrentUICultureに応じて自動的にen/jaが切り替わる
+            BtnJapanese.Text = Strings.BtnJapanese;
+            BtnEnglish.Text = Strings.BtnEnglish;
+            label1.Text = Strings.label1_text;
+            label2.Text = Strings.label2_text;
+        }
+
+        private void BtnEnglish_Click(object sender, EventArgs e)
         {
             Properties.Settings.Default.Language = "en";
             Properties.Settings.Default.Save();
 
-            MessageBox.Show(
-                "Language changes will take effect after restarting the application.",
-                "Language Setting",
-                MessageBoxButtons.OK,
-                MessageBoxIcon.Information);
+            MessageBox.Show(Strings.MsgRestartRequired);
+        }
+
+        private void BtnJapanese_Click(object sender, EventArgs e)
+        {
+            Properties.Settings.Default.Language = "ja";
+            Properties.Settings.Default.Save();
+
+            MessageBox.Show(Strings.MsgRestartRequired);
         }
     }
 }

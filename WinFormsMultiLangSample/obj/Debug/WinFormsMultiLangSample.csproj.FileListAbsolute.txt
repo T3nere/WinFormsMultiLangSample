@@ -8,3 +8,7 @@ C:\Users\Owner\Desktop\practice\WinFormsMultiLangSample\WinFormsMultiLangSample\
 C:\Users\Owner\Desktop\practice\WinFormsMultiLangSample\WinFormsMultiLangSample\obj\Debug\WinFormsMultiLangSample.csproj.CoreCompileInputs.cache
 C:\Users\Owner\Desktop\practice\WinFormsMultiLangSample\WinFormsMultiLangSample\obj\Debug\WinFormsMultiLangSample.exe
 C:\Users\Owner\Desktop\practice\WinFormsMultiLangSample\WinFormsMultiLangSample\obj\Debug\WinFormsMultiLangSample.pdb
+C:\Users\Owner\Desktop\practice\WinFormsMultiLangSample\WinFormsMultiLangSample\bin\Debug\ja\WinFormsMultiLangSample.resources.dll
+C:\Users\Owner\Desktop\practice\WinFormsMultiLangSample\WinFormsMultiLangSample\obj\Debug\WinFormsMultiLangSample.Resources.Strings.resources
+C:\Users\Owner\Desktop\practice\WinFormsMultiLangSample\WinFormsMultiLangSample\obj\Debug\WinFormsMultiLangSample.Resources.Strings.ja.resources
+C:\Users\Owner\Desktop\practice\WinFormsMultiLangSample\WinFormsMultiLangSample\obj\Debug\ja\WinFormsMultiLangSample.resources.dll

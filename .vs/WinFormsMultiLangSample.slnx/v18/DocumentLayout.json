@@ -3,26 +3,30 @@
   "WorkspaceRootPath": "C:\\Users\\Owner\\Desktop\\practice\\WinFormsMultiLangSample\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{624A84EF-4784-4B05-AAF9-5BFB88E35292}|WinFormsMultiLangSample\\WinFormsMultiLangSample.csproj|C:\\Users\\Owner\\Desktop\\practice\\WinFormsMultiLangSample\\winformsmultilangsample\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{624A84EF-4784-4B05-AAF9-5BFB88E35292}|WinFormsMultiLangSample\\WinFormsMultiLangSample.csproj|solutionrelative:winformsmultilangsample\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{624A84EF-4784-4B05-AAF9-5BFB88E35292}|WinFormsMultiLangSample\\WinFormsMultiLangSample.csproj|C:\\Users\\Owner\\Desktop\\practice\\WinFormsMultiLangSample\\winformsmultilangsample\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{624A84EF-4784-4B05-AAF9-5BFB88E35292}|WinFormsMultiLangSample\\WinFormsMultiLangSample.csproj|solutionrelative:winformsmultilangsample\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{624A84EF-4784-4B05-AAF9-5BFB88E35292}|WinFormsMultiLangSample\\WinFormsMultiLangSample.csproj|c:\\users\\owner\\desktop\\practice\\winformsmultilangsample\\winformsmultilangsample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{624A84EF-4784-4B05-AAF9-5BFB88E35292}|WinFormsMultiLangSample\\WinFormsMultiLangSample.csproj|solutionrelative:winformsmultilangsample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{624A84EF-4784-4B05-AAF9-5BFB88E35292}|WinFormsMultiLangSample\\WinFormsMultiLangSample.csproj|c:\\users\\owner\\desktop\\practice\\winformsmultilangsample\\winformsmultilangsample\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{624A84EF-4784-4B05-AAF9-5BFB88E35292}|WinFormsMultiLangSample\\WinFormsMultiLangSample.csproj|solutionrelative:winformsmultilangsample\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{624A84EF-4784-4B05-AAF9-5BFB88E35292}|WinFormsMultiLangSample\\WinFormsMultiLangSample.csproj|c:\\users\\owner\\desktop\\practice\\winformsmultilangsample\\winformsmultilangsample\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{624A84EF-4784-4B05-AAF9-5BFB88E35292}|WinFormsMultiLangSample\\WinFormsMultiLangSample.csproj|solutionrelative:winformsmultilangsample\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{624A84EF-4784-4B05-AAF9-5BFB88E35292}|WinFormsMultiLangSample\\WinFormsMultiLangSample.csproj|c:\\users\\owner\\desktop\\practice\\winformsmultilangsample\\winformsmultilangsample\\resources\\strings.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{624A84EF-4784-4B05-AAF9-5BFB88E35292}|WinFormsMultiLangSample\\WinFormsMultiLangSample.csproj|solutionrelative:winformsmultilangsample\\resources\\strings.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
     }
   ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
-      "VerticalTabListWidth": 100,
+      "VerticalTabListWidth": 127,
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,20 +38,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
+              "Title": "Strings.resx",
+              "DocumentMoniker": "C:\\Users\\Owner\\Desktop\\practice\\WinFormsMultiLangSample\\WinFormsMultiLangSample\\Resources\\Strings.resx",
+              "RelativeDocumentMoniker": "WinFormsMultiLangSample\\Resources\\Strings.resx",
+              "ToolTip": "C:\\Users\\Owner\\Desktop\\practice\\WinFormsMultiLangSample\\WinFormsMultiLangSample\\Resources\\Strings.resx",
+              "RelativeToolTip": "WinFormsMultiLangSample\\Resources\\Strings.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-07-11T01:17:46.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\Owner\\Desktop\\practice\\WinFormsMultiLangSample\\WinFormsMultiLangSample\\Form1.cs",
               "RelativeDocumentMoniker": "WinFormsMultiLangSample\\Form1.cs",
               "ToolTip": "C:\\Users\\Owner\\Desktop\\practice\\WinFormsMultiLangSample\\WinFormsMultiLangSample\\Form1.cs",
               "RelativeToolTip": "WinFormsMultiLangSample\\Form1.cs",
-              "ViewState": "AgIAABEAAACAmpmZmZkJwBwAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAADgzMzMzMwlwBoAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-08T13:14:53.006Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [\u30C7\u30B6\u30A4\u30F3]",
               "DocumentMoniker": "C:\\Users\\Owner\\Desktop\\practice\\WinFormsMultiLangSample\\WinFormsMultiLangSample\\Form1.cs",
               "RelativeDocumentMoniker": "WinFormsMultiLangSample\\Form1.cs",
@@ -59,13 +75,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Owner\\Desktop\\practice\\WinFormsMultiLangSample\\WinFormsMultiLangSample\\Program.cs",
               "RelativeDocumentMoniker": "WinFormsMultiLangSample\\Program.cs",
               "ToolTip": "C:\\Users\\Owner\\Desktop\\practice\\WinFormsMultiLangSample\\WinFormsMultiLangSample\\Program.cs",
               "RelativeToolTip": "WinFormsMultiLangSample\\Program.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAA1wB0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAACA//////8AwBYAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-08T13:12:09.013Z",
               "EditorCaption": ""

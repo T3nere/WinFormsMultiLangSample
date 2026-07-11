@@ -31,7 +31,8 @@
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
-            this.LanguageButton = new System.Windows.Forms.Button();
+            this.BtnEnglish = new System.Windows.Forms.Button();
+            this.BtnJapanese = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // label1
@@ -44,21 +45,30 @@
             resources.ApplyResources(this.label2, "label2");
             this.label2.Name = "label2";
             // 
-            // LanguageButton
+            // BtnEnglish
             // 
-            resources.ApplyResources(this.LanguageButton, "LanguageButton");
-            this.LanguageButton.Name = "LanguageButton";
-            this.LanguageButton.UseVisualStyleBackColor = true;
-            this.LanguageButton.Click += new System.EventHandler(this.LanguageButton_Click);
+            resources.ApplyResources(this.BtnEnglish, "BtnEnglish");
+            this.BtnEnglish.Name = "BtnEnglish";
+            this.BtnEnglish.UseVisualStyleBackColor = true;
+            this.BtnEnglish.Click += new System.EventHandler(this.BtnEnglish_Click);
+            // 
+            // BtnJapanese
+            // 
+            resources.ApplyResources(this.BtnJapanese, "BtnJapanese");
+            this.BtnJapanese.Name = "BtnJapanese";
+            this.BtnJapanese.UseVisualStyleBackColor = true;
+            this.BtnJapanese.Click += new System.EventHandler(this.BtnJapanese_Click);
             // 
             // Form1
             // 
             resources.ApplyResources(this, "$this");
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.Controls.Add(this.LanguageButton);
+            this.Controls.Add(this.BtnJapanese);
+            this.Controls.Add(this.BtnEnglish);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Name = "Form1";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -68,7 +78,8 @@
 
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
-        private System.Windows.Forms.Button LanguageButton;
+        private System.Windows.Forms.Button BtnEnglish;
+        private System.Windows.Forms.Button BtnJapanese;
     }
 }
 
